@@ -1,6 +1,6 @@
-### Termos de acordos
+### Disclaimer
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Esse projeto foi realizado durante o módulo de fundamentos do curso da Trybe. 
 
 # Boas vindas ao repositório do projeto de Carrinho de Compras!
 
@@ -44,9 +44,9 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ---
 
-## Habilidades
+## Habilidades Envolvidas
 
-Nesse projeto, você será capaz de:
+Esse projeto possui exemplos de:
 
 - Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
 - Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
